@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working as Devops engineer in **Tata Consultancy services**
 
-- 💬 Ask me about **AWS, DevOps Tools, Linux, Python**
+- 💬 Ask me about **AWS, DevOps Tools, Linux, Python, Secops**
 
-- 📫 How to reach me **vibishnathang1999@gmail.com**
+- 📫 How to reach me **vibishdevops@gmail.com**
 
 - 📄 Know about my experiences www.linkedin.com/in/vibishnathang
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href= www.linkedin.com/in/vibishnathang target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank1sharma" height="30" width="40" /></a>
+<a href= www.linkedin.com/in/vibishnathang target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vibishnathanG" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

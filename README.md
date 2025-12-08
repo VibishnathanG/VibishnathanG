@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working as Devops engineer in **Tata Consultancy services**
+- 🔭 I’m currently working as DevSecOps engineer in **Infosys Limited**
 
 - 💬 Ask me about **AWS, DevOps Tools, Linux, Python, Secops**
 
 - 📫 How to reach me **vibishdevops@gmail.com**
 
-- 📄 Know about my experiences http://vibishdevops.soon.it/
+- 📄 Know about my experiences https://opswithvibish.online/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

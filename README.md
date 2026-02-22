@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Vibishnathan G</h1>
 <h3 align="center">Devops/Cloud Engineer </h3>
 
-<p align="left"> <a href="https://github.com/VibishnathanG/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VibishnathanG" alt="VibishnathanG" /></a> </p>
+<p align="left"> <a href="[https://github.com/VibishnathanG/github-profile-trophy](https://avatars.githubusercontent.com/u/109983038?v=4)"><img src="https://github-profile-trophy.vercel.app/?username=VibishnathanG" alt="VibishnathanG" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 

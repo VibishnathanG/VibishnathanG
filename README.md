@@ -1,14 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Vibishnathan G</h1>
 <h3 align="center">DevSecOps / Cloud Engineer</h3>
 
-<!-- Profile Image (Direct GitHub Avatar) -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/109983038?v=4"
-       alt="Vibishnathan G"
-       width="200"
-       style="border-radius:50%;" />
-</p>
-
 ---
 
 <img align="right" alt="DevSecOps Engineer" width="400"
@@ -35,5 +27,5 @@
 <h3 align="left">Tech Stack:</h3>
 
 <p align="left">
-  AWS | Azure | Linux | Python | Docker | Kubernetes | Terraform | Git | Wiz
+  AWS | Azure | Linux | Python | Docker | Kubernetes | Terraform | Git | Wiz and More..
 </p>

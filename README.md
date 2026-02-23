@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  🔗 <a href="https://www.linkedin.com/in/YOUR_USERNAME"
+  🔗 <a href="https://www.linkedin.com/in/vibishnathanG"
          target="_blank"
          rel="noopener noreferrer">
-         linkedin.com/in/YOUR_USERNAME
+         linkedin.com/in/vibishnathanG
       </a>
 </p>
 
